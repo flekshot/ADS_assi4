@@ -1,4 +1,4 @@
-# Graph Assignment
+# Assignment
 
 Dear Mr. Khaimuladin,
 
